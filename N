@@ -1,0 +1,12 @@
+
+public class Demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    int age =18;
+    if (age>21); 
+    System.out.println("Elegiable for voting");
+    System.out.println("do not have permission for voting...");
+	}
+
+}
